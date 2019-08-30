@@ -27,7 +27,7 @@ module.exports = {
   // Features List
   features               : [
     {
-      title: "GitHub Pages GatsbyJS Starter",
+      title: "GitHub Pages GatsbyJS Starte",
       description:
         "Designed for GitHub Pages and Netlify. Fork. Edit site-config.js. Upload screenshot/video. Push to gh-pages branch. Voilà!",
       fontawesome_icon_name: "magic",
