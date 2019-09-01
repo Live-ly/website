@@ -9,7 +9,7 @@ module.exports = {
   path_prefix           : "/",                                                    // Prefixes all links. For cases when deployed to example.github.io/automatic-gatsbyjs-app-landing-page/.
   app_name              : "Live.ly",
   app_price             : "Free",
-  app_description       : "Dedicated live stream selling.",
+  app_description       : "Dedicated live streaming service for buying & selling.",
   app_keywords          : ["automatic", "gatsbyjs", "app", "landing page"],
 
   // Personal Info
@@ -35,7 +35,7 @@ module.exports = {
     {
       title: "All about the show!",
       description:
-      "With automatic management of order transactions, you can focus on your stream instead of managing orders - no need to worry about who ordered what!",
+      "With automatic management of orders and transactions, you can focus on your stream instead of managing orders.",
       fontawesome_icon_name: "street-view",
     },
     {
@@ -47,20 +47,20 @@ module.exports = {
     {
       title: "A flea market at your fingers",
       description:
-        "Browse and shop from a variety of sellers from the comfort of your home. Lively lets you find new items and follow your favourite sellers.",
+        "Browse and shop from a variety of sellers from the comfort of your home. Lively lets you find new items and follow your favourite sellers with ease.",
       fontawesome_icon_name: "store",
     },
     {
       title: "Buy with no regrets",
       description:
-        "Ask your seller anything, and they'll show you the answer in real time on the stream! No more worries about fit or color.",
+        "Ask your seller anything, and they can answer you live on stream! No more worries about buying the wrong fit or color.",
       fontawesome_icon_name: "grin-stars",
     },
   ],
   header_background             : "rgba(100, 0, 80, 0.1)",
   topbar_title_color            : "#ffffff",
-  cover_overlay_color_rgba_from : "rgba(100, 59, 80, 0.8)",
-  cover_overlay_color_rgba_to   : "rgba(120, 80, 61, 0.8)",
+  cover_overlay_color_rgba_from : "rgba(100, 15, 0, 0.8)",
+  cover_overlay_color_rgba_to   : "rgba(0, 0, 0, 0.8)",
   device_color                  : "white",                          // Set to "black", "blue", "coral", "white", or "yellow"
   body_background_color         : "ffffff",
   primary_text_color            : "#000",
