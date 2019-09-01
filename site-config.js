@@ -47,7 +47,7 @@ module.exports = {
     {
       title: "A flea market at your fingers",
       description:
-        "Browse and shop from a variety of sellers from the comfort of your house. Lively's lets you find new items and follow your favourite sellers.",
+        "Browse and shop from a variety of sellers from the comfort of your home. Lively lets you find new items and follow your favourite sellers.",
       fontawesome_icon_name: "store",
     },
     {
@@ -57,9 +57,10 @@ module.exports = {
       fontawesome_icon_name: "grin-stars",
     },
   ],
-  header_background             : "rgba(0, 0, 0, 0.1)",
+  header_background             : "rgba(100, 0, 80, 0.1)",
   topbar_title_color            : "#ffffff",
-  cover_overlay_color_rgba      : "rgba(54, 59, 61, 0.8)",
+  cover_overlay_color_rgba_from : "rgba(100, 59, 80, 0.8)",
+  cover_overlay_color_rgba_to   : "rgba(120, 80, 61, 0.8)",
   device_color                  : "white",                          // Set to "black", "blue", "coral", "white", or "yellow"
   body_background_color         : "ffffff",
   primary_text_color            : "#000",

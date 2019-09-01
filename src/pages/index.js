@@ -17,8 +17,8 @@ const IndexPage = ({ data }) => (
     <div
       className="imageWrapper"
       style={{
-        backgroundImage: `linear-gradient(${configs.cover_overlay_color_rgba},${
-          configs.cover_overlay_color_rgba
+        backgroundImage: `linear-gradient(${configs.cover_overlay_color_rgba_to},${
+          configs.cover_overlay_color_rgba_from
         }),url(${data.headerImage.childImageSharp.fluid.src})`,
       }}
     >
