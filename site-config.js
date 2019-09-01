@@ -66,7 +66,7 @@ module.exports = {
   header_background             : "rgba(0, 0, 0, 0.1)",
   topbar_title_color            : "#ffffff",
   cover_overlay_color_rgba      : "rgba(54, 59, 61, 0.8)",
-  device_color                  : "black",                          // Set to "black", "blue", "coral", "white", or "yellow"
+  device_color                  : "white",                          // Set to "black", "blue", "coral", "white", or "yellow"
   body_background_color         : "ffffff",
   primary_text_color            : "#000",
   content_width                 : "1170px",
