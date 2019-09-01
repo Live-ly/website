@@ -3,7 +3,7 @@ module.exports = {
   appstore_link         : "https://imedadel.me",                                  // Enter App Store URL.
   playstore_link        : "https://imedadel.me",                                  // Enter Google Play Store URL.
   google_analytics_ID   : "",                                        // Enter Google Analytics ID or ""
-  presskit_download_link: null,                                  // Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+  presskit_download_link: null,                                  // Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
   video_or_screenshot   : "screenshot",                                           // "screenshot" or "video"
   app_url               : "https://agalp.imedadel.me",                            // Domain of your website without path_prefix.
   path_prefix           : "/",                                                    // Prefixes all links. For cases when deployed to example.github.io/automatic-gatsbyjs-app-landing-page/.
@@ -27,41 +27,36 @@ module.exports = {
   // Features List
   features               : [
     {
-      title: "GitHub Pages GatsbyJS Starte",
+      title: "Get a larger audience",
       description:
-        "Designed for GitHub Pages and Netlify. Fork. Edit site-config.js. Upload screenshot/video. Push to gh-pages branch. Voilà!",
-      fontawesome_icon_name: "magic",
+      "Reach out to new buyers with our AI-powered recommender system.",
+      fontawesome_icon_name: "users",
     },
     {
-      title: "iPhone Device Preview",
+      title: "All about the show!",
       description:
-        "Preview your app in the context of an iPhone device. Five different device colors included.",
-      fontawesome_icon_name: "mobile",
+      "With automatic management of order transactions, you can focus on your stream instead of managing orders - no need to worry about who ordered what!",
+      fontawesome_icon_name: "street-view",
     },
     {
-      title: "Video Support",
+      title: "Fun-loving community",
       description:
-        "Preview app video on the iPhone device simply by placing your video files in the videos folder.",
-      fontawesome_icon_name: "play-circle",
+      "Lively promises a fun & engaging community for viewers & streamers alike.",
+      fontawesome_icon_name: "heart",
     },
     {
-      title: "Optimized Performance",
+      title: "A flea market at your fingers",
       description:
-        "No need to worry about page performance or optimizing images and videos. Everything is already configured for the best performance possible!",
-      fontawesome_icon_name: "sync",
+        "Browse and shop from a variety of sellers from the comfort of your
+house. Lively's lets you find new items and follow your favourite sellers.",
+      fontawesome_icon_name: "store",
     },
     {
-      title: "Easy to Tweak",
+      title: "Buy with no regrets",
       description:
-        "Tweak accent color, images, icons and transparency via the site-config.js file. No HTML/CSS needed.",
-      fontawesome_icon_name: "adjust",
+        "Ask your seller anything, and they'll show you the answer in real time on the stream! No more worries about fit or color.",
+      fontawesome_icon_name: "grin-stars",
     },
-    {
-      title: "Feature List",
-      description:
-        "Add features (like this one) to your site via the site-config.js file. No HTML/CSS needed.",
-      fontawesome_icon_name: "star",
-    }
   ],
   header_background             : "rgba(0, 0, 0, 0.1)",
   topbar_title_color            : "#ffffff",
