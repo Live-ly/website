@@ -9,7 +9,7 @@ module.exports = {
   path_prefix           : "/",                                                    // Prefixes all links. For cases when deployed to example.github.io/automatic-gatsbyjs-app-landing-page/.
   app_name              : "Live.ly",
   app_price             : "Free",
-  app_description       : "Dedicated live streaming service for buying & selling.",
+  app_description       : "Dedicated live streaming service to buy and sell.",
   app_keywords          : ["automatic", "gatsbyjs", "app", "landing page"],
 
   // Personal Info
