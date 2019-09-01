@@ -47,8 +47,7 @@ module.exports = {
     {
       title: "A flea market at your fingers",
       description:
-        "Browse and shop from a variety of sellers from the comfort of your
-house. Lively's lets you find new items and follow your favourite sellers.",
+        "Browse and shop from a variety of sellers from the comfort of your house. Lively's lets you find new items and follow your favourite sellers.",
       fontawesome_icon_name: "store",
     },
     {
